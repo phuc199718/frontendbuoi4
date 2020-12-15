@@ -1,0 +1,51 @@
+#duynhat {
+    background-color: chocolate
+}
+
+.padding{
+    background-color: blue;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.font-size-primary{
+    font-size: 50px;
+    color: darkorchid;
+}
+
+
+.margin{
+    background-color: blue;
+    margin-bottom: 30px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 0 auto;
+}
+
+.margin2{
+    background-color: red;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.padding{
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+
+.text {
+    background-color: royalblue;
+    width: 200px;
+    margin: 0 auto;
+    color: sandybrown;
+    font-size: 20x;
+    letter-spacing: 1px;
+    white-space: nowrap; /* không xuống hàng */
+    overflow: hidden; /* nếu chữ vượt quá hàng thì ẩn đi */
+    text-overflow: ellipsis;
+    /* chữ bị ẩn thì thay bằng dấu ... */
+
+}
