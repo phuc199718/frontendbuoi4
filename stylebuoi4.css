@@ -45,7 +45,8 @@
     letter-spacing: 1px;
     white-space: nowrap; /* không xuống hàng */
     overflow: hidden; /* nếu chữ vượt quá hàng thì ẩn đi */
-    text-overflow: ellipsis;
-    /* chữ bị ẩn thì thay bằng dấu ... */
+    text-overflow: ellipsis; /* chữ bị ẩn thì thay bằng dấu ... */
+
+ 
 
 }

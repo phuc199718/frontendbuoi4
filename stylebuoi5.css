@@ -1,0 +1,51 @@
+body{
+    background-color: deeppink;
+}
+
+header {
+    margin-top: 10px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    max-width: 1270px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbars ul {
+    display: flex;
+    
+
+}
+
+.navbars ul li {
+    list-style: none;
+
+}
+.navbars ul li a{
+    text-transform: capitalize;
+    padding: 0 20px;
+    color: floralwhite;
+}
+
+.logo a{
+    background-color: gold;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
