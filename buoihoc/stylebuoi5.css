@@ -49,3 +49,13 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+h2{
+    font-size: 30px;
+    margin-left: 250px;
+}
+h2 img{
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
