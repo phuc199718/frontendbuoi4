@@ -1,0 +1,30 @@
+.container{
+    width: 25vw;
+    height: 50vh;
+    background-color: red;
+    position: absolute;
+
+}
+
+.block-black{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    
+}
+
+.block-green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+}
+
+.block-yellow{
+    width: 25px;
+    height: 25px;
+    background-color: yellow;
+}
